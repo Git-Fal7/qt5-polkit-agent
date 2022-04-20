@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Exec=qt5-polkit-agent
+TryExec=qt5-polkit-agent
+
+Name=PolicyKit Agent
